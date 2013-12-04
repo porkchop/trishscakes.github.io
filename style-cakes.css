@@ -1,0 +1,165 @@
+body
+{
+background-color: #FFF8FA;
+background-image:url("photos/cupcake.png");
+background-repeat: no-repeat;
+background-position: 95% -1%;
+
+}
+
+
+
+.head
+{
+font-family: baskerville, serif;
+font-size: 300%;
+color: #999596;
+font-style: italic;
+text-align: center;
+border-style:dotted;
+border-width:1px;
+}
+
+
+.subhead
+{
+font-family: georgia;
+font-size: 90%;
+color: black;
+text-align: center;
+font-style: italic;
+}
+
+.home
+{
+text-align: center;
+}
+
+ul
+{
+list-style-type:none;
+text-align: center;
+}
+li
+{
+
+display:inline;
+width:80px;
+background-color:#dddddd;
+text-align: center;
+}
+
+a
+{
+font-family: georgia;
+color: black;
+
+}
+
+a:hover,a:active
+{
+background-color:#696969;
+}
+
+.temoin
+{
+font-family: papyrus;
+font-style: bold;
+text-align: right;
+}
+
+.cite
+{
+font-family: georgia;
+font-style: italic;
+color: #999596;
+font-size: 75%;
+text-align:right;
+}
+pre
+{
+font-family: georgia;
+font-style: italic;
+color: #999596;
+font-size: 75%;
+text-align: right;
+}
+
+.photo, .propos, .contact
+{
+font-family: papyrus;
+text-align: center;
+font-size: 130%;
+color: #999596;
+border-style:dotted;
+border-width:1px;
+}
+
+.img
+{
+opacity:0.4;
+filter:alpha(opacity=40); 
+text-align:center;
+
+}
+.img:hover
+{
+opacity:1.0;
+filter:alpha(opacity=100); 
+
+}
+
+.zoom {
+height:550px;
+}
+.zoom p {
+text-align:center;
+}
+.zoom img {
+width:250px;
+height:267px;
+}
+.zoom img:hover {
+width:350px;
+height:440px;
+}
+
+.communication
+{
+text-align: center;
+font-family: georgia;
+font-size: 90%;
+color: black;
+}
+
+.text1
+{text-align: justify;
+font-family: papyrus;
+color: black;
+font-size: 120%;
+
+}
+
+.text2
+{text-align: justify;
+font-family: georgia;
+font-style: italic;
+color: #999596;
+font-size: 75%;
+background-color: #E6E6FA;
+display: inline-block;
+}
+
+.describe, .contact2
+{
+font-family: georgia;
+font-size: 100%;
+color: #999596;
+border: 2px solid #FFF0F5; 
+text-align: center;
+display: table;
+font-style: italic;
+
+}
+
+
